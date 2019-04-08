@@ -14,7 +14,7 @@
 :- import_module list.
 :- import_module string.
 
-handle_get(Request, Response, !IO) :-
+handle_get(Req, Response, !IO) :-
     set_content_type(Response, "text/html", !IO),
-    Msg = string.append_list(["Be gay, and do crimes! 🏴"]),
+    Msg = "Be gay, and do crimes! 🏴",
     write_response(Response, Msg, !IO).
