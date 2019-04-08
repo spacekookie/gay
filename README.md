@@ -11,3 +11,4 @@ This repository has inspired various other pride flags ❤
 
 - https://github.com/ticky/trans
 - https://github.com/alexwlchan/asexual
+- https://github.com/TartanLlama/non-binary
