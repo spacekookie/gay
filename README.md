@@ -14,3 +14,4 @@ This repository has inspired various other pride flags ❤
 - https://github.com/TartanLlama/non-binary
 - https://github.com/issyl0/pan
 - https://github.com/mattbischoff/bisexual
+- https://github.com/crinnyx/heterosexual
